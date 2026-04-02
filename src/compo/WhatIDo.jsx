@@ -30,11 +30,11 @@ function WhatIDo() {
               <p>Prediction Accuracy Improvement</p>
             </div>
             <div className="illus-stat">
-              <h4>80+</h4>
+              <h4>25+</h4>
               <p>Models & Experiments Deployed</p>
             </div>
             <div className="illus-stat">
-              <h4>12M+</h4>
+              <h4>4M+</h4>
               <p>Data Points Analyzed</p>
             </div>
           </div>
